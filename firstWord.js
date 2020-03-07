@@ -4,3 +4,5 @@ function firstWord(str){
     let n1= str.indexOf(" ");
     return str.substr(0,n1);
 }
+
+module.exports = firstWord;
