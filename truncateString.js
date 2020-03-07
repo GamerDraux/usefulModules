@@ -7,3 +7,4 @@ function truncateString (string, desiredLength){
     return shortString;
 }
 
+module.exports= truncateString;
