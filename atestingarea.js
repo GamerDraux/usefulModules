@@ -1,3 +1,1 @@
-const truncate = require ('./truncateString.js');
-
-console.log (truncate("the quick", 3));
+const testedFunction = require (./ //type name of module here//);
