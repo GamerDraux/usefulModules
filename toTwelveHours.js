@@ -1,4 +1,4 @@
-let toTwelveHours= function(hours){
+function toTwelveHours(hours){
     if (hours>12){
         hours=hours-12;
     }

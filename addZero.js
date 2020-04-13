@@ -1,4 +1,4 @@
-let addZero = function (remainder){
+function addZero (remainder){
     let seconds = String(remainder);
     if (seconds.length===1){
         seconds ='0'+seconds;
